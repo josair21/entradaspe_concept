@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1dc07c20.css",
+    "main.js": "/static/js/main.cfd840ba.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/terminosycondiciones.png": "/static/media/terminosycondiciones.5022ddd16480941f2768.png",
+    "static/media/preguntasfrecuentes.png": "/static/media/preguntasfrecuentes.9004c7ed659d742cfff2.png",
+    "static/media/acercadenosotros.png": "/static/media/acercadenosotros.9696af5676f638b4325e.png",
+    "static/media/flyer.png": "/static/media/flyer.581b4eb2d064fe1cedea.png",
+    "static/media/ticketTransfer.png": "/static/media/ticketTransfer.65edf4b702e3f6ba3e76.png",
+    "static/media/ticket.png": "/static/media/ticket.0335be5631d57ae5bc5c.png",
+    "static/media/bannerpc.jpg": "/static/media/bannerpc.be7c06cebf8a0a9b858c.jpg",
+    "static/media/ticketFinal.png": "/static/media/ticketFinal.0731b2f2930c7e8774f4.png",
+    "static/media/maps-preview.png": "/static/media/maps-preview.b4e644182fd4eb943211.png",
+    "static/media/cine1.png": "/static/media/cine1.df334819b10a79ae590a.png",
+    "static/media/cine2.png": "/static/media/cine2.e1336e092053e56b6396.png",
+    "static/media/yape.png": "/static/media/yape.b2a1f8a94c9198185f76.png",
+    "static/media/plin.png": "/static/media/plin.29751c27afa4b4b31268.png",
+    "static/media/logofooter.png": "/static/media/logofooter.9346ac09eef105f48661.png",
+    "static/media/cinesmall.png": "/static/media/cinesmall.7cfa639e74d1bffafd06.png",
+    "static/media/reclamos.png": "/static/media/reclamos.c7516ae97cda73cc22b2.png",
+    "static/media/iconos rrss-05.png": "/static/media/iconos rrss-05.e3fcc91c45ee85b4b61b.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.1dc07c20.css.map": "/static/css/main.1dc07c20.css.map",
+    "main.cfd840ba.js.map": "/static/js/main.cfd840ba.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dc07c20.css",
+    "static/js/main.cfd840ba.js"
+  ]
+}
